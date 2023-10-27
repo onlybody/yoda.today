@@ -1,1 +1,3 @@
 # yoda.today
+
+Today: Yoda.
